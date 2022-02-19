@@ -18,11 +18,11 @@
     margin: 0 20px; 
 }
 
+.payment--title{
+    flex: 0.2;
+}
 
 .payment--address, .payment--items, .payment--details {
     flex: 0.8;
 }
 
-.payment--title{
-    flex: 0.2;
-}
